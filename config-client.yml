@@ -1,5 +1,5 @@
+server:
+  port: 7788
 spring:
   application:
     name: client?
-server:
-  port: 7788
